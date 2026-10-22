@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <img src="./assets/banner.svg" alt="Mathew Kenyi Isaac Banner" width="100%"/>
 </div>
 
-<br/>
+<br/> -->
 
 <p align="left">
   <a href="https://github.com/mathewkenyi07">
