@@ -27,7 +27,7 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
 I am a software engineer and student dedicated to translating complex ideas into elegant, user-centric code. I focus on developing full-stack applications with an emphasis on performance, accessibility, and community impact. 
 
@@ -38,9 +38,9 @@ I am a software engineer and student dedicated to translating complex ideas into
 
 <br/>
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
-### 💻 Languages &amp; Core
+### Languages &amp; Core
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
@@ -49,7 +49,7 @@ I am a software engineer and student dedicated to translating complex ideas into
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL"/>
 </p>
 
-### 🚀 Frameworks &amp; Libraries
+### Frameworks &amp; Libraries
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>&nbsp;
@@ -57,7 +57,7 @@ I am a software engineer and student dedicated to translating complex ideas into
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
-### 🗄️ Databases, Services &amp; Tools
+### Databases, Services &amp; Tools
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>&nbsp;
