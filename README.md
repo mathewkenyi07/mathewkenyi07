@@ -64,43 +64,29 @@ I'm a software developer focused on building practical applications, well-struct
 
 ## Featured Projects
 
-<!-- Unified Projects Grid (Matching Layout Diagram: First Row Full Width, 2x2 Below, No Headings) -->
+<!-- Compact 3x2 Projects Grid (All 6 projects visible without scrolling) -->
 <table width="100%">
-  <!-- First Row — Full Width (Medical Link Africa with reduced image) -->
+  <!-- Row 1: Medical Link Africa | KenovaLabs | Open Source Kigali -->
   <tr>
-    <td colspan="2" width="100%">
-      <table width="100%">
-        <tr>
-          <td width="42%" align="center" valign="middle">
-            <a href="https://medicallinkafrica.netlify.app/" target="_blank">
-              <img src="./assets/medical-link-africa.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" alt="Medical Link Africa UI Showcase"/>
-            </a>
-          </td>
-          <td width="58%" valign="top" style="padding-left: 14px;">
-            <h3>Medical Link Africa</h3>
-            <p><strong>AI-Powered Voice &amp; Vision Telemedicine Platform</strong></p>
-            <p>
-              Healthcare accessibility portal connecting patients with verified medical practitioners, nearby pharmacies, and pharmaceutical inventory in real-time. Features sub-second OCR medicine scanning, multilingual voice navigation across 9 African &amp; global languages, and live GPS routing.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>&nbsp;
-              <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>&nbsp;
-              <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>&nbsp;
-              <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>&nbsp;
-              <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-            </p>
-            <p>
-              <a href="https://medicallinkafrica.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-0969da?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
-            </p>
-          </td>
-        </tr>
-      </table>
+    <td width="33.3%" valign="top">
+      <a href="https://medicallinkafrica.netlify.app/" target="_blank">
+        <img src="./assets/medical-link-africa.png" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" alt="Medical Link Africa UI Showcase"/>
+      </a>
+      <h3>Medical Link Africa</h3>
+      <p>
+        AI-powered voice &amp; vision telemedicine platform with OCR medicine scanning, multilingual voice navigation across 9 languages, and live pharmacy inventory.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>&nbsp;
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>&nbsp;
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>&nbsp;
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      </p>
+      <p>
+        <a href="https://medicallinkafrica.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-0969da?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
+      </p>
     </td>
-  </tr>
-
-  <!-- Second Row — Left & Right (KenovaLabs & Open Source Kigali) -->
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <h3>KenovaLabs</h3>
       <p>
         KenovaLabs is a technology company focused on building intelligent, scalable, and practical digital solutions. We combine artificial intelligence, software engineering, and automation to help businesses streamline operations, improve decision-making, and turn ideas into impactful technology.
@@ -115,10 +101,10 @@ I'm a software developer focused on building practical applications, well-struct
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <h3>Open Source Kigali (OSK)</h3>
       <p>
-        Official community platform for Open Source Kigali, showcasing tech events, onboarding contributors, and enabling open-source collaboration across Rwanda's vibrant developer ecosystem.
+        Official community platform for Open Source Kigali, showcasing tech events, onboarding contributors, and enabling open-source collaboration across Rwanda's developer ecosystem.
       </p>
       <p>
         Fosters developer growth, technical workshops, hackathons, and cross-border open-source knowledge sharing.
@@ -137,9 +123,9 @@ I'm a software developer focused on building practical applications, well-struct
     </td>
   </tr>
 
-  <!-- Third Row — Left & Right (Past-Paper E-Library & Personal Portfolio) -->
+  <!-- Row 2: Past-Paper E-Library | Personal Portfolio | Weather App -->
   <tr>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <h3>Past-Paper E-Library</h3>
       <p>
         Zero-cost academic platform converting multi-page past examination papers into structured Markdown, DOCX, and PDF formats using Google Gemini 2.0 Flash multimodal AI and automated summarization.
@@ -154,7 +140,7 @@ I'm a software developer focused on building practical applications, well-struct
         <img src="https://img.shields.io/badge/Status-In_Development-0969da?style=for-the-badge&logo=git&logoColor=white" alt="In Development"/>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <h3>Personal Portfolio</h3>
       <p>
         Modern interactive developer portfolio showcasing software engineering projects, technical skillsets, academic background, and direct professional contact channels.
@@ -171,11 +157,7 @@ I'm a software developer focused on building practical applications, well-struct
         <a href="https://github.com/mathewkenyi07/portfolio"><img src="https://img.shields.io/badge/GitHub_Repo-1f2328?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
       </p>
     </td>
-  </tr>
-
-  <!-- Fourth Row — Left & Right (Weather App & More Repositories) -->
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <h3>Weather App</h3>
       <p>
         Real-time meteorological forecasting web application providing current atmospheric metrics, temperature trends, forecast charts, and location-based meteorological lookups.
@@ -188,21 +170,8 @@ I'm a software developer focused on building practical applications, well-struct
       </p>
       <p>
         <a href="https://github.com/mathewkenyi07/weather-app"><img src="https://img.shields.io/badge/GitHub_Repo-1f2328?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>More Repositories</h3>
-      <p>
-        Looking for more codebases, experimental scripts, and open-source contributions? Explore all public repositories on GitHub.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/>&nbsp;
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>&nbsp;
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL"/>&nbsp;
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-      </p>
-      <p>
-        <a href="https://github.com/mathewkenyi07?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repos-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repos"/></a>
+        &nbsp;
+        <a href="https://github.com/mathewkenyi07?tab=repositories"><img src="https://img.shields.io/badge/All_Repos-0969da?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/></a>
       </p>
     </td>
   </tr>
